@@ -1,0 +1,12 @@
+{
+    "environments": ["node", "browser"],
+
+    "globals": {
+        "my": false,
+        "hat": true
+    },
+    "loopClosures": "iife",
+    "disallowVars": false,
+    "disallowDuplicated": true,
+    "disallowUnknownReferences": true
+}
