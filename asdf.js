@@ -13,6 +13,7 @@ function fn() {
       y;
       z;
       zz;
+      //x; // x doesn't work yet.., uncomment to try
     });
   }
   console.log(y); // prints 0
